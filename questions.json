@@ -1,0 +1,83 @@
+{
+  "heading": "G10Film Language Part 1(mcq)",
+  "topics": [
+    {
+      "heading": "Film Language Part 1",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "Complete the following sentence using the correct word.<br><b>The lecturer explained the complicated theory so __________ that even the least experienced students could understand it.</b>"
+    ],
+    "options": [
+      { "text": "supervenes" },
+      { "text": "perspicuously" },
+      { "text": "concatenated" },
+      { "text": "No loaf is so hard but it may be softened in water." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "What is the meaning of the word <b>“supervenes”</b>?"
+    ],
+    "options": [
+      { "text": "To explain something in a clear and understandable manner." },
+      { "text": "To connect several things in a continuous sequence." },
+      { "text": "To occur or arise as a subsequent development, often unexpectedly." },
+      { "text": "To overcome a difficulty through patience and gradual effort." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Complete the following sentence using the correct word.<br><b>The editor __________ the separate eyewitness accounts into a single, continuous narrative that revealed the sequence of events.</b>"
+    ],
+    "options": [
+      { "text": "perspicuously" },
+      { "text": "supervenes" },
+      { "text": "No loaf is so hard but it may be softened in water." },
+      { "text": "concatenated" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "What does the proverb <b>“You never miss a slice from a cut loaf”</b> mean?"
+    ],
+    "options": [
+      { "text": "People often fail to appreciate something until it is no longer available." },
+      { "text": "Small amounts taken from an existing supply may go unnoticed, especially when the supply is already divided or abundant." },
+      { "text": "Difficult situations can always be resolved through patience and repeated effort." },
+      { "text": "Information becomes easier to understand when it is explained clearly." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "What is the meaning of the proverb <b>“No loaf is so hard but it may be softened in water”</b>?"
+    ],
+    "options": [
+      { "text": "A problem becomes impossible to solve once it has resisted the first attempt." },
+      { "text": "People should avoid difficult tasks because their efforts may be wasted." },
+      { "text": "Even a difficult or stubborn situation may be improved through patience, persistence, and suitable methods." },
+      { "text": "Small losses are insignificant when resources are plentiful." }
+    ],
+    "answer": 2
+  }
+
+
+]
+
+
+
+
+    }
+  ]
+}
